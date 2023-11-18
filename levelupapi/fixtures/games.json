@@ -1,0 +1,26 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Mario",
+            "maker": "Nintendo",
+            "game_type": "3",
+            "gamer": 1,
+            "number_of_players": 1,
+            "skill_level": 2
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Connect 4",
+            "maker": "Hasbro",
+            "game_type": "1",
+            "gamer": 1,
+            "number_of_players": 2,
+            "skill_level": 2
+        }
+    }
+]
